@@ -2,11 +2,15 @@
 
 ##  Descrição
 
-Desenvolve.Com é uma plataforma web que permite aos usuários pesquisarem por projetos e profissionais de desenvolvimento. A aplicação oferece funcionalidades como:
+Desenvolve.Com é uma plataforma web que permite aos usuários pesquisarem por projetos e profissionais de desenvolvimento, seja para fins profissionais ou educacionais.
+Com Desenvolve.Com, você encontra facilmente o projeto ou profissional ideal para o seu próximo desafio!
+A aplicação oferece funcionalidades como:
 
-* **Pesquisa avançada** por tecnologias
+* **Pesquisa avançada** por tecnologias, segmento, linguagem, etc.
+
+Temos como pontos de melhoria: 
 * **Filtragem** por categorias
 * **Sistema de favoritos** para salvar suas pesquisas
 * **Autenticação de usuários** para personalizar a experiência
 
-Com Desenvolve.Com, você encontra facilmente o projeto ou profissional ideal para o seu próximo desafio!
+
